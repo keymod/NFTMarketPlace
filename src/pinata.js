@@ -1,6 +1,6 @@
 //require('dotenv').config();
-const key = '2013cd40135784bcc294';
-const secret = '76f6d081f4105b21f337c7689aef7645aad65e40e78cd048bee744fbd9921c25';
+const key = '9f5409f1b8b52548fd82';
+const secret = '1b4aff073173946b48b6c57e20a8068496c784f1d3ff4ee5356e5d415d6e78e5';
 
 const axios = require('axios');
 const FormData = require('form-data');
